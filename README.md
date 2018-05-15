@@ -9,7 +9,7 @@ CIDEr by default (with idf parameter set to "corpus" mode) computes IDF values u
 
 ## Requirements ##
 - java 1.8.0
-- python 2.7
+- python 3.6
 
 For running the ipython notebook file, update your Ipython to [Jupyter](https://jupyter.org/)
 
